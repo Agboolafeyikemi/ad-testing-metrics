@@ -135,9 +135,6 @@ const App = () => {
     parseData();
   }, []);
 
-  // render() {
-  //     let {userData, search, data, showGraph, selectedUserId} = this.state;
-
   return (
     <div className="App">
       <h1 className={"header"}>Ad Testing Metrics</h1>
